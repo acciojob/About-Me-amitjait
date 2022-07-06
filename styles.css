@@ -1,1 +1,16 @@
-
+.head{
+    font-weight: bold;
+}
+.general{
+    display: flex;
+}
+ul{
+    list-style: none;
+}
+.about-para{
+    font-size: 22px;
+}
+.skill-head{
+    font-size: 15px;
+    font-weight: bold;
+}
